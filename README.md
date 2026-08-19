@@ -2,6 +2,10 @@
 Après les différents LiteTexs, les différents mods pour BBS, voici une conversion en boîte automatique pour l'Irisbus Recreo, aka Karosa C954E. Je sais, il n'existe pas de version automatique (tout comme le Axer), mais comme l'Axer en boîte auto (sur lequel certains scripts sont basés), c'est un mod fictif.
 
 # Patchnotes:
+1.2.1:
+- Remplacement des logos C954E par les logos RECREO
+- Modification de la couleur de la girouette BUSE
+
 1.2.0
 - Ajout des enjoliveurs Irisbus
 - Traduction du BUSE
